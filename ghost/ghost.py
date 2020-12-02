@@ -10,7 +10,7 @@ from http.cookiejar import Cookie, LWPCookieJar
 from contextlib import contextmanager
 from functools import wraps
 
-from PySide2.QtWebKitWidgets import (
+from PySide2.QtWebEngineWidgets import (
     QWebPage,
     QWebSettings,
     QWebView,
